@@ -6,10 +6,10 @@ A simple CLI tool which allows a user to query the [StarWars API](https://swapi.
 
 * [Deno](https://deno.land/#installation)
 
-## Installation Steps (if applicable)
+## Installation Steps
 
 1. Clone repo
-2. Query the API like so: `deno run --allow-net=swapi.dev index.ts --resource=["films"|"people"|"planets"] --query="the search term to query the SWAPI for"`
+2. Query the API like so: `deno run --allow-net=swapi.dev index.ts --resource=["films"|"people"|"planets"] --query="search term"`
 
 ### Example Usage:
 
